@@ -1,12 +1,12 @@
 # Hi 👋, I'm Sawda-Hassan
 
- 🚀 MERN & Flutter Enthusiast | 
+ 🚀 MERN & Flutter Enthusiast | creative motion designer
 
 ## 🛠 Skills
 - **Frontend**: React, Flutter, Tailwind CSS
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB, PostgreSQL
-- **DevOps**: Docker, Render, Railway, Netlify
+- **Database**: MongoDB,
+- **DevOps**: vercel, Render
 
 ## 📂 Featured Projects
 - [Notes App](https://github.com/Sawda-Hassan/Notes-App) – Full MERN stack notes app with authentication
