@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋, I'm Sawda-Hassan
 
-<!--
-**Sawda-Hassan/Sawda-Hassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🚀 MERN & Flutter Enthusiast | 
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Frontend**: React, Flutter, Tailwind CSS
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB, PostgreSQL
+- **DevOps**: Docker, Render, Railway, Netlify
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- [Notes App](https://github.com/Sawda-Hassan/Notes-App) – Full MERN stack notes app with authentication
+- [Place Sharing](https://github.com/Sawda-Hassan/place-sharing) – Location sharing with maps & APIs
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sawda-Hassan&show_icons=true&theme=tokyonight)
+
+---
+⭐️ From [Sawda-Hassan](https://github.com/Sawda-Hassan)
