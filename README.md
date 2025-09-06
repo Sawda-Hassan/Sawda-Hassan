@@ -21,7 +21,7 @@
     </td>
     <td width="35%" align="right" valign="top">
       <!-- Muslim girl coding illustration -->
-       <img src="https://raw.githubusercontent.com/sawda-hassan/sawda-hassan/main/assets/coding-girl.png" width="260" alt="Muslim girl coding"/>
+  <img src="https://github.com/Sawda-Hassan/Sawda-Hassan/raw/2ff049cbbf9d83badb7fb3a84528104ae58f5818/coding-girl.png" width="250" alt="Muslim girl coding">
 
     </td>
   </tr>
