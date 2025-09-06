@@ -1,14 +1,11 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a237e&height=200&section=header&text=Sawda%20Hassan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=d2691e&height=200&section=header&text=Sawda%20Hassan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
-
-
-
 
 <!-- Top Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sawda-hassan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=sawda-hassan&label=Profile%20Views&color=d2691e&style=flat" alt="profile views"/>
   <img src="https://img.shields.io/github/followers/sawda-hassan?label=Followers&style=social" alt="followers"/>
   <img src="https://img.shields.io/badge/Location-Mogadishu,%20Somalia-28a745?style=flat" alt="location"/>
 </p>
@@ -28,8 +25,8 @@
 
     </td>
     <td width="35%" align="center" valign="middle">
-      <!-- Big Muslim girl coding illustration -->
-      <img src="https://github.com/Sawda-Hassan/Sawda-Hassan/raw/2ff049cbbf9d83badb7fb3a84528104ae58f5818/coding-girl.png" 
+      <!-- New Avatar -->
+      <img src="https://github.com/Sawda-Hassan/Sawda-Hassan/blob/main/avatar.png" 
            alt="Muslim girl coding"
            width="350"
            style="max-width: 100%; border-radius: 20px; box-shadow: 0px 4px 12px rgba(0,0,0,0.25);"/>
@@ -67,21 +64,17 @@ I enjoy shipping features end-to-end: **UX → Frontend → Backend → Deploy**
 ---
 
 ## ⭐ Featured Projects
-> Showcase 2–4 strong repos. Replace links, one-line value, and stack.
-
 - **E-learning Platform** — modern MERN app for courses, auth, and progress tracking  
   `React • Node • Express • MongoDB • JWT`  
-  🔗 Live: https://YOUR-EL-APP.vercel.app • Repo: https://github.com/sawda-hassan/e-learning-platform
+  🔗 Live: https://YOUR-EL-APP.vercel.app • Repo: https://github.com/sawda-hassan/e-learning-platform  
 
 - **Place Sharing** — secure place sharing with auth & maps  
   `React • Node • MongoDB • Map APIs`  
-  🔗 Live: https://place-sharing-128o.vercel.app • Repo: https://github.com/sawda-hassan/place-sharing-project
+  🔗 Live: https://place-sharing-128o.vercel.app • Repo: https://github.com/sawda-hassan/place-sharing-project  
 
 - **Ride-Sharing Dashboard (Admin)** — realtime driver/docs review & analytics  
   `React • Tailwind • WebSocket • Node • MongoDB`  
-  🔗 Live: https://YOUR-ADMIN.vercel.app • Repo: https://github.com/sawda-hassan/safarx-admin
-
-> Tip: Pin these repos on your GitHub profile for quick access.
+  🔗 Live: https://YOUR-ADMIN.vercel.app • Repo: https://github.com/sawda-hassan/safarx-admin  
 
 ---
 
@@ -89,7 +82,7 @@ I enjoy shipping features end-to-end: **UX → Frontend → Backend → Deploy**
 - ⚡ Delivered multiple **full-stack** apps (design → deploy)  
 - 🎥 **Motion design** for clean product explainers and UI micro-interactions  
 - 🧪 Comfortable with **Postman**, **JWT auth**, and **env-based configs**  
-- ☁️ Deploys to **Vercel**, **Netlify**, **Render**, **Railway**
+- ☁️ Deploys to **Vercel**, **Netlify**, **Render**, **Railway**  
 
 ---
 
@@ -97,8 +90,6 @@ I enjoy shipping features end-to-end: **UX → Frontend → Backend → Deploy**
 - **JavaScript / React** — Course certificates (add links)  
 - **Flutter** — UI fundamentals & state management (add links)  
 - **MongoDB** — CRUD, indexes, and Atlas setup (add link)  
-
-> Add your real certificate URLs to build trust.
 
 ---
 
@@ -112,7 +103,6 @@ I enjoy shipping features end-to-end: **UX → Frontend → Backend → Deploy**
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=sawda-hassan&layout=compact&theme=radical" />
 </p>
 
-<!-- Contribution Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sawda-hassan&theme=react-dark" alt="activity graph"/>
 </p>
@@ -127,11 +117,11 @@ I enjoy shipping features end-to-end: **UX → Frontend → Backend → Deploy**
 ## 🤝 Work With Me
 - 📮 **Email:** `sawdahassan4@gmail.com`  
 - 📄 **Resume:** https://YOUR-RESUME-LINK (PDF)  
-- 🗓️ **Book a call:** https://cal.com/YOUR-USERNAME (optional)
+- 🗓️ **Book a call:** https://cal.com/YOUR-USERNAME  
 
 ---
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=d2691e&height=120&section=footer"/>
 </p>
