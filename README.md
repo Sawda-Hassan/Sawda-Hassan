@@ -1,3 +1,8 @@
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Sawda%20Hassan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
 <!-- Top Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sawda-hassan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
@@ -5,7 +10,7 @@
   <img src="https://img.shields.io/badge/Location-Mogadishu,%20Somalia-28a745?style=flat" alt="location"/>
 </p>
 
-<!-- Intro + Illustration (two-column layout) -->
+<!-- Intro + Illustration -->
 <table width="100%">
   <tr>
     <td width="65%" valign="top">
@@ -13,16 +18,18 @@
 <h1 align="left">Hi 👋, I'm Sawda Hassan</h1>
 <h3 align="left">🚀 MERN & Flutter Enthusiast • 🎨 Creative Motion Designer</h3>
 
-- 🔭 Currently building: **E-learning Platform**
-- 🌱 Learning next: **Next.js** & **Advanced Flutter**
-- 💬 Ask me about: **React, Node.js, MongoDB, Flutter**
+- 🔭 Currently building: **E-learning Platform**  
+- 🌱 Learning next: **Next.js** & **Advanced Flutter**  
+- 💬 Ask me about: **React, Node.js, MongoDB, Flutter**  
 - 📫 Reach me at: **sawdahassan4@gmail.com**
 
     </td>
-    <td width="35%" align="right" valign="top">
-      <!-- Muslim girl coding illustration -->
-  <img src="https://github.com/Sawda-Hassan/Sawda-Hassan/raw/2ff049cbbf9d83badb7fb3a84528104ae58f5818/coding-girl.png" width="250" alt="Muslim girl coding">
-
+    <td width="35%" align="center" valign="middle">
+      <!-- Big Muslim girl coding illustration -->
+      <img src="https://github.com/Sawda-Hassan/Sawda-Hassan/raw/2ff049cbbf9d83badb7fb3a84528104ae58f5818/coding-girl.png" 
+           alt="Muslim girl coding"
+           width="350"
+           style="max-width: 100%; border-radius: 20px; box-shadow: 0px 4px 12px rgba(0,0,0,0.25);"/>
     </td>
   </tr>
 </table>
@@ -30,11 +37,11 @@
 ---
 
 ## 🌐 Connect
-<p>
-  <a href="mailto:sawdahassan4@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Sawda%20Hassan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-Visit-111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<p align="center">
+  <a href="mailto:sawdahassan4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 ---
@@ -50,7 +57,7 @@ I enjoy shipping features end-to-end: **UX → Frontend → Backend → Deploy**
 ---
 
 ## 🧰 Tech Stack
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,flutter,nodejs,express,mongodb,postgres,mysql,python,php,html,css,bootstrap,tailwind,figma,git,vscode&perline=10" />
 </p>
 
@@ -93,17 +100,17 @@ I enjoy shipping features end-to-end: **UX → Frontend → Backend → Deploy**
 ---
 
 ## 📈 GitHub Analytics
-<p align="left">
+<p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=sawda-hassan&show_icons=true&theme=radical" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sawda-hassan&theme=radical" />
 </p>
 
-<p>
+<p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=sawda-hassan&layout=compact&theme=radical" />
 </p>
 
-<!-- Optional contribution/activity graph -->
-<p>
+<!-- Contribution Graph -->
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sawda-hassan&theme=react-dark" alt="activity graph"/>
 </p>
 
@@ -121,7 +128,7 @@ I enjoy shipping features end-to-end: **UX → Frontend → Backend → Deploy**
 
 ---
 
-<!-- Footer note -->
+<!-- Footer -->
 <p align="center">
-  <sub>Built with ❤️ by Sawda • Last updated: {{ TODAY }}</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/>
 </p>
