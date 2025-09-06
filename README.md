@@ -1,7 +1,10 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Sawda%20Hassan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a237e&height=200&section=header&text=Sawda%20Hassan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
+
+
+
 
 <!-- Top Badges -->
 <p align="center">
