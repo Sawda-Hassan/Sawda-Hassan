@@ -16,7 +16,7 @@
     <td width="65%" valign="top">
 
 <h1 align="left">Hi 👋, I'm Sawda Hassan</h1>
-<h3 align="left">🚀 MERN & Flutter Enthusiast • 🎨 Creative Motion Designer</h3>
+<h3 align="left">🚀 MERN & Flutter Enthusiast /h3>
 
 - 🔭 Currently building: **E-learning Platform**  
 - 🌱 Learning next: **Next.js** & **Advanced Flutter**  
